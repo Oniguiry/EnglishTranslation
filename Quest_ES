@@ -13,17 +13,17 @@ QUEST_20150317_000012   Maestro Bokor
 QUEST_20150317_000013   ¿Quieres saber sobre esta tableta? {Nl} The mostraré las visiones de la persona que la hizo.
 QUEST_20150317_000014   Diosa Laima
 QUEST_20150317_000015   Para cuando hayas visto esta revelación, un largo tiempo habrá pasado ya. {Nl} Soy Laima, la Diosa del Destino y la Suerte. {Nl}
-QUEST_20150317_000016   Cuando realizé esta revelación 600 años atrás, fuí testigo de mucho dolor y muerte. {Nl} Si estás viendo esta revelación quiere decir que todo lo que predije se ha convertido en realidad. {Nl}
-QUEST_20150317_000017   El primer desastre fue causado por los Demonios, y todas las Diosas pueden haber desaparecido. {Nl} Sabía sobre esto desde el principio e hice mi mayor esfuerzo para prevenirlo, pero mis fuerzas no fueron suficientes. {Nl}
+QUEST_20150317_000016   Cuando realizé esta revelación 600 años atrás, fuí testigo de mucho dolor y muerte. {Nl} Si estás viendo esta revelación quiere decir que todo lo que predije se ha cumplido. {Nl}
+QUEST_20150317_000017   El primer desastre fue causado por los Demonios, y todas las Diosas pueden haber desaparecido. {Nl} Sabía sobre esto desde el principio e hice el mayor de mis esfuerzos para prevenirlo, pero mi fuerza no fue suficiente. {Nl}
 QUEST_20150317_000018   Recorrí un largo camino de predicciones para encontrar la respuesta. {Nl} En la culminación de mis sueños te encontrabas tú: El Salvador. {Nl}
 QUEST_20150317_000019   Sin embargo, conscientes de mi poder para predecir el destino, los Demonios no me dejaban sola. {Nl} Por ende tuve que esconderme hasta encontrarte.
-QUEST_20150317_000020   Decidí dividirme y hacerme ver en diferentes revelaciones. {Nl} Continué realizando estas revelaciones y escondiéndome en ellas alrededor de todo el reino durante mil años. {Nl}
-QUEST_20150317_000021   Salvador. {Nl} Es necesario que para que yo pueda detener a los Demonions {Nl} tú encuentres todas las revelaciones que escondí en el Axis del Tiempo.
+QUEST_20150317_000020   Decidí dividirme y aparecer en diferentes revelaciones. {Nl} Continué realizando estas revelaciones y escondiéndome en ellas alrededor de todo el reino durante mil años. {Nl}
+QUEST_20150317_000021   Salvador. {Nl} Es necesario que, para que yo pueda detener a los Demonions {Nl} tú encuentres todas las revelaciones que escondí en el Axis del Tiempo.
 QUEST_20150317_000022   El peso de la misión sagrada cae sobre tus hombros. {Nl}
 QUEST_20150317_000023   Solo tú y yo podemos salvar el mundo. {Nl}
-QUEST_20150317_000024   Pasé la siguiente revelación al primer Paladín. {Nl} Te estaré esperando en la parte de arriba del jardín.
-QUEST_20150317_000025   Evil forces and will be but I do not feel at all. {Nl} Then, this revelation is true of Laima goddess .. just awesome.
-QUEST_20150317_000026   Muy bien. Por favor vuelve con Uska. {Nl} Él te dirá a dónde ir. {Nl} Que la bendición de la Diosa acompañe tu futuro...
+QUEST_20150317_000024   Pasé la siguiente revelación al primer Paladín. {Nl} Te estaré esperando en la parte superior del jardín.
+QUEST_20150317_000025   Evil forces and will be but I do not feel at all. {Nl} Entonces, esta revelación es de verdad de la diosa Laima...impresionante.
+QUEST_20150317_000026   Muy bien. Por favor vuelve con Uska. {Nl} Él te dirá dónde ir. {Nl} Que la bendición de la Diosa acompañe tu futuro...
 QUEST_20150317_000027   Please select preferred Smart Gen.
 QUEST_20150317_000028   William
 QUEST_20150317_000029   Serán 100 monedas de plata. {Nl} Esto es más barato que ir a través de un puñado de monstruos.
@@ -32,57 +32,57 @@ QUEST_20150317_000031   Serán 100 monedas de plata. {Nl} Esto incluye la operac
 QUEST_20150317_000032   Disculpa... no está disponible gratis. {Nl} Ya deberías saber esto...
 QUEST_20150317_000033   No. No está disponible gratis. {Nl} Incluso si eres el Revelador, hay cosas que siguen siendo imposibles.
 QUEST_20150317_000034   Vendedor Ambulante
-QUEST_20150317_000035   Soy un pobre vendedor ambulante. {Nl} Bueno, ya que estamos aqui, quieres hechar un vistazo a mi mercadería?
+QUEST_20150317_000035   Soy un pobre vendedor ambulante. {Nl} Bueno, ya que estamos aqui, quieres echar un vistazo a mi mercancía?
 QUEST_20150317_000036   Christina
 QUEST_20150317_000037   Bienvenido {Nl} ¿Estás buscando amigos con los que te puedas llevar bien? {Nl} No podrías encontrar mejores compañeros para tus viajes que estos muchachos.
-QUEST_20150317_000038   Puedes hacer que tu compañero luche o entrene atributos especiales. {Nl} Si incrementan su afección puedes incluso comprar equipamentos para él. {Nl}
-QUEST_20150317_000039	Compañeros que crecen con tu afección aumentarán tu estamina y su evasión. {Nl} ¿Qué dices? ¿No es un compañero lo suficientemente bueno para ti?
+QUEST_20150317_000038   Puedes hacer que tu compañero luche o entrene atributos especiales. {Nl} Si incrementas su afecto puedes incluso comprar equipamento para él. {Nl}
+QUEST_20150317_000039	Compañeros que crecen con tu afecto aumentarán tu estamina y su evasión. {Nl} ¿Cómo dices? ¿No es un compañero lo suficientemente bueno para ti?
 QUEST_20150317_000040	Necesitas una llave para la caja.
 QUEST_20150317_000041	Seleccionar Quest
 QUEST_20150317_000042	Modificar estado de Quest
-QUEST_20150317_000043	Forzar comienzo?
+QUEST_20150317_000043	¿Forzar comienzo?
 QUEST_20150317_000044	Objetos a borrar
 QUEST_20150317_000045	Seleccionar GenType
 QUEST_20150317_000046	Seleccionar coordinadas
 QUEST_20150317_000047	Caballero Titas
 QUEST_20150317_000048	En ese caso, encuentra al Caballero Comandante Uska en Klaipeda. {Nl} Pero antes de eso, tengo algo que decirte, asi que sígueme.
-QUEST_20150317_000049	Espero tener un tiempo para descansar...
+QUEST_20150317_000049	Espero tener tiempo para descansar...
 QUEST_20150317_000050	Sparnas... {Nl} no es un sujeto fácil.
 QUEST_20150317_000051	Soldado Moody
 QUEST_20150317_000052	Hablemos otra vez después de que derrotemos este monstruo.
-QUEST_20150317_000053	Unirse a la investigación del Team Scott
-QUEST_20150317_000054	Espero que el día que nuestro equipo ya no sea necesario llegue pronto... {Nl} Ah, me refiero a que quisiera días más pacíficos. Haha... {Nl}
+QUEST_20150317_000053	Unirse a la investigación del equipo Scott
+QUEST_20150317_000054	Espero que el día en que nuestro equipo ya no sea necesario llegue pronto... {Nl} Ah, me refiero a que quisiera días más pacíficos. jaja... {Nl}
 QUEST_20150317_000055	No sé que hacer. {Nl} ¿Escuchaste algo?
-QUEST_20150317_000056	Fuimos enviados por el reino para investigar los extraños incidentes tomando lugar en el bosque. {Nl} Los testigos dicen que vieron una gran cabeza y dedos huesudos. {Nl} ¿Qué podría ser?
-QUEST_20150317_000057	En el pasado, Pilgrims solía crusar este bosque. {Nl} Pero hoy en día hay muchos soldados debido a los monstruos.
-QUEST_20150317_000058	Hasta hace 4 años atrás, las Diosas ocasionalmente se daban a ver. {Nl} Pero hoy en día no aparecen sin importar lo mucho que recemos. {Nl} ¿De verdad podrían habernos abandonado?
+QUEST_20150317_000056	Fuimos enviados por el reino para investigar los extraños incidentes que han tomando lugar en el bosque. {Nl} Los testigos dicen que vieron una gran cabeza y dedos huesudos. {Nl} ¿Qué podría ser?
+QUEST_20150317_000057	En el pasado, Pilgrims solía cruzar este bosque. {Nl} Pero hoy en día hay muchos soldados debido a los monstruos.
+QUEST_20150317_000058	Hasta hace 4 años atrás, las Diosas ocasionalmente se dejaban ver. {Nl} Pero hoy en día no aparecen sin importar lo mucho que recemos. {Nl} ¿De verdad podrían habernos abandonado?
 QUEST_20150317_000059	Vecenin se ocupa de las cosas llendo y viniendo de cada área por su cuenta. {Nl} Dice que es muy aburrido simplemente quedarse en una ciudad.
-QUEST_20150317_000060	¿Has pensado en quedarte aquí permanentemente o convertirte en un soldado? {Nl} Con gusto te recomendaría con los comandantes.
-QUEST_20150317_000061	No bajes tu guardia. Nunca sabes cuándo y dónde los monstruos podrían aparecer.
+QUEST_20150317_000060	¿Has pensado en quedarte aquí permanentemente o convertirte en un soldado? {Nl} Con gusto te recomendaría a los comandantes.
+QUEST_20150317_000061	No bajes la guardia. Nunca sabes cuándo y dónde los monstruos podrían aparecer.
 QUEST_20150317_000062	Me pregunto dónde estará la Diosa Zemyna...
 QUEST_20150317_000063	De todos modos, ¿qué son estas cosas?
-QUEST_20150317_000064	La Diosa Zemyna estará más triste que todos.
-QUEST_20150317_000065	Pokubus estuvo por aquí desde antes. {Nl} Pero monstruos peculiares han aparecido también.
+QUEST_20150317_000064	La Diosa Zemyna es la que más triste está de todos nosotros.
+QUEST_20150317_000065	Pokubus está por aquí desde hace más tiempo. {Nl} Pero también han aparecido algunos monstruos extraños.
 QUEST_20150317_000066	Estuve pensando en ello. La Diosa seguramente nos ha abandonado. {Nl} Eso explicaría por qué hay tantos monstruos alrededor.
-QUEST_20150317_000067	Escuché que hay una persona viviendo en el bosque cerca de aquí que recivió el poder de la Diosa...
+QUEST_20150317_000067	He escuchado que hay una persona viviendo en un bosque cercano que recibió el poder de la Diosa...
 QUEST_20150317_000068	Quiero regresar a mi pueblo natal.
-QUEST_20150317_000069	La número de monstruos no parece disminuir sin importar cuantos matemos.
+QUEST_20150317_000069	El número de monstruos no parece disminuir sin importar cuantos matemos.
 QUEST_20150317_000070	Revelador, ¿Julian te envió?
-QUEST_20150317_000071	No puede ser. {Nl} Eres la primera que encuentro en los últimos años aquí. {Nl}
+QUEST_20150317_000071	No puede ser. {Nl} Eres la primera persona que encuentro en los últimos años aquí. {Nl}
 QUEST_20150317_000072	Te mostraré lo que ví.
 QUEST_20150317_000073	No te preocupes por mi. Por favor, solo vete. {Nl} Ah, hermosas flores están viniendo.
 QUEST_20150317_000074	Lennar
 QUEST_20150317_000075	Cuéntame sobre las experiencias de tu vida. {Nl} Siguiendo las palabras de Vivora, nosotros documentamos todo lo que pasa en el mundo.
 QUEST_20150317_000076	
-QUEST_20150317_000077	Hola. Somos la Sucursal de la Asociación Mágica de Kalipedia. {Nl} Estudiamos las misteriosas cosas que pasan cuando se recolectan materiales especiales.
+QUEST_20150317_000077	Hola. Somos la Sucursal de la Asociación Mágica de Kalipedia. {Nl} Estudiamos las misteriosas cosas que ocurren cuando se recolectan materiales especiales.
 QUEST_20150317_000078	Solo hay vapor y Vubbes aquí. {Nl} Una gran cara aquí... ¿Qué podría ser?
-QUEST_20150317_000079	Debería recuperar mi consciencia. {Nl} El mundo no se terminó... ¿verdad?
-QUEST_20150317_000080	Cuando los favores continúan, uno cree que son sus derechos. {Nl} Quizá el hecho de que estamos dependiendo mucho de la Diosa sea negativo para nosotros.
+QUEST_20150317_000079	Debería recuperar mi consciencia. {Nl} El mundo no ha desaparecido... ¿verdad?
+QUEST_20150317_000080	Cuando los favores continúan, uno empieza a pensar que son sus derechos. {Nl} Quizá el hecho de que estemos dependiendo mucho de la Diosa sea negativo para nosotros.
 QUEST_20150317_000081	Tablón de Anuncios
 QUEST_20150317_000082	¡Bienvenidos al pueblo minero Klaipeda!
 QUEST_20150317_000083	Viuda Tranquila
 QUEST_20150317_000084	No sé la razón. {Nl} Pero es un hecho que las Diosas no desaparecieron todas juntas.
-QUEST_20150317_000085	La primera Diosa que desapareció fue la Diosa Gabija. {Nl} Escuché que fue un largo tiempo atrás. {Nl} Y después, otras Diosas comenzaron a no responder una por una. {Nl}
+QUEST_20150317_000085	La primera Diosa que desapareció fue la Diosa Gabija. {Nl} Escuché que fue largo tiempo atrás. {Nl} Y después, otras Diosas comenzaron a no responder una por una. {Nl}
 QUEST_20150317_000086	La Diosa Vakarine desapareció antes del Día Divino. {Nl} Zemina y Ausrine fueron las últimas Diosas y ellas desaparecieron también. {Nl} Eso fue hace ya cuatro años atrás. {Nl}
 QUEST_20150317_000087	Así es. La Diosa Laima era la más rara. {Nl} Nadie sabe cuándo desapareció. {Nl}
 QUEST_20150317_000088	Además, la Diosa Laima es la Diosa del Destino y la Predicción, ¿no es así? {Nl} Seguramente ella sabía todo desde el principio, ¿no es así?
@@ -92,8 +92,8 @@ QUEST_20150317_000091	Bah, ¡no importa! ¡Ven a mi, monstruo! {Nl}
 QUEST_20150317_000092	La Diosa estuvo en mi sueño... {Nl} Era encantadora...
 QUEST_20150317_000093	Mi deber es proteger el reino. Esa es la razón por la que estoy aquí.
 QUEST_20150317_000094	Uska era un viejo amigo mío. {Nl}
-QUEST_20150317_000095	Tomamos la prueba de Caballero juntos, y Uska se convirtió en lo que es hoy gracias a mi sincero apoyo. {Nl} Ahh... todo era tan divertido en el pasado... ¡te extraño, Uska!
-QUEST_20150317_000096	No confíes mucho en sus palabras. {Nl} Él solía ser un ebrio bastante conocido en nuestra aldea.
+QUEST_20150317_000095	Tomamos la prueba de Caballero juntos, y Uska se convirtió en lo que es hoy gracias a mi sincero apoyo. {Nl} Aah... todo era tan divertido en el pasado... ¡te extraño, Uska!
+QUEST_20150317_000096	No confíes mucho en sus palabras. {Nl} Él solía ser un borracho bastante conocido en nuestra aldea.
 QUEST_20150317_000097	¿Yo? Solo me estoy llendo porque parece divertido.
 QUEST_20150317_000098	Ummm... retiro lo dicho sobre no confiar mucho en él. {Nl}
 QUEST_20150317_000099	¡Directamente no confíes en nada de lo que él diga!
@@ -101,14 +101,14 @@ QUEST_20150317_000100	Guardia Siauliai
 QUEST_20150317_000101	A partir de este punto aparecerán monstruos, así que no te descuides.
 QUEST_20150317_000102	Este lugar no es muy pacífico pero es mejor que en otras áreas. {Nl} En otros lugares, además de no haber gente, los espíritus rondan los bosques.
 QUEST_20150317_000103	Individuos como tú, que vieron las revelaciones de una Diosa, son llamados Reveladores.
-QUEST_20150317_000104	Al principio pensaba que los Reveladores estaban locos. {Nl} Pasó un largo tiempo desde que las Diosas desaparecieron. {Nl}
+QUEST_20150317_000104	Al principio pensaba que los Reveladores estaban locos. {Nl} Ha pasado mucho tiempo desde que las Diosas desaparecieron. {Nl}
 QUEST_20150317_000105	Después de todo, no respondieron al Día Divino hace cuatro años.
-QUEST_20150317_000106	Los maestros de cada clase estan situados por todo el reino. {Nl} ¿Por qué no vas a buscarlos y aprendes de ellos?
-QUEST_20150317_000107	¿No sabes sobre eso? Debes de venir de tierras muy remotas. {Nl} Fué el día en el que el monumento divino en el centro de la capital se elevó y se volvió loco. {Nl}
+QUEST_20150317_000106	Los maestros de cada clase están situados por todo el reino. {Nl} ¿Por qué no vas a buscarlos y aprendes de ellos?
+QUEST_20150317_000107	¿No sabes sobre esto? Debes de venir de tierras muy remotas. {Nl} Fué el día en el que el monumento divino en el centro de la capital se elevó y se volvió loco. {Nl}
 QUEST_20150317_000108	Fue un desastre. Muchas personas fueron heridas o perdieron sus vidas. {Nl} Incluso los monstruos no dañinos se volvieron feroces y aparecieron nuevas criaturas.
-QUEST_20150317_000109	Ve a Klaipeda si estas interesado en el Día Divino de hace cuatro años. {Nl} Muchos de los sobrevivientes escaparon allí ese día.
-QUEST_20150317_000110	Sentinela de los Bosques del Este
-QUEST_20150317_000111	¿Estás planeando entrar a los Bosques del Este? {Nl} Nunca lo hagas. ¡Es demasiado preligroso! {Nl}
+QUEST_20150317_000109	Ve a Klaipeda si estás interesado en el Día Divino de hace cuatro años. {Nl} Muchos de los supervivientes escaparon de allí ese día.
+QUEST_20150317_000110	Centinela de los Bosques del Este
+QUEST_20150317_000111	¿Estás planeando entrar a los Bosques del Este? {Nl} Jamás lo hagas. ¡Es demasiado preligroso! {Nl}
 QUEST_20150317_000112	Ugh, ¡nunca se rinden!
 QUEST_20150317_000113	Ese grito... ¡es un ataque!
 QUEST_20150317_000114	Precauciones de Seguridad
@@ -116,16 +116,16 @@ QUEST_20150317_000115	1. Solo personal autorizado puede entrar. {Nl} 2. Actuar s
 QUEST_20150317_000116	3. Nunca entrar en áreas prohibidas. {Nl} 4. Denunciar a cualquiera que trate de entrar a las Minas sin permiso de los Caballeros Templarios de Klaipeda.
 QUEST_20150317_000117	Soldado de la Base de Provisiones
 QUEST_20150317_000118	No estoy familiarizado con las batallas aún, así que estoy un poco nervioso.
-QUEST_20150317_000119	Sentinela de la Granja
-QUEST_20150317_000120	Mi colega está en una guerra en la Aldea de la Mina. {Nl} Quiero ir a darle una mano, pero los Bosques del Este también están en problemas así que estoy preocupado.
+QUEST_20150317_000119	Centinela de la Granja
+QUEST_20150317_000120	Mi colega está en una guerra en la Aldea de la Mina. {Nl} Quiero ir a echarle una mano, pero los Bosques del Este también están en problemas así que estoy preocupado.
 QUEST_20150317_000121	Creo que ví todo los monstruos que necesito ver en toda mi vida a lo largo de esta misión. {Nl} Solía ser solo un pequeño grupo de Vubbes.
-QUEST_20150317_000122	El Chupacabras disfruta estar cerca del arroyo y la alta vegetación del área del norte.
+QUEST_20150317_000122	El Chupacabras disfruta estando cerca del arroyo y la alta vegetación del área del norte.
 QUEST_20150317_000123	Capitán de la Guardia de Klaipeda
 QUEST_20150317_000124	Tu eres el...
 QUEST_20150317_000125	Escuché que fueron vistos en las profundidades de la parte superior del bosque. {Nl} Para estar seguros, no los estimules mucho.
-QUEST_20150317_000126	No tienes los items necesarios para la Quest. ¿Quieres proceder despues de crearlo?
+QUEST_20150317_000126	No tienes los items necesarios para la Quest. ¿Quieres proceder despues de crearlos?
 QUEST_20150317_000127	Chica de Klaipeda
-QUEST_20150317_000128	Ese hombre es mi vecino. Él solía ser un cazador de monstruos. {Nl} Pero ahora se retiró porque los monstruos son muy feroces y peligrosos.
+QUEST_20150317_000128	Ese hombre es mi vecino. Solía ser un cazador de monstruos. {Nl} Pero ahora ha retirado porque los monstruos son demasiado feroces y peligrosos.
 QUEST_20150317_000129	Espero que la aparición de los Reveladores sea una señal del retorno de las Diosas.
 QUEST_20150317_000130	Depender completamente de las Diosas es estúpido, pero es mejor que no tener nada de qué depender.
 QUEST_20150317_000131	Señora de Klaipeda
@@ -134,27 +134,27 @@ QUEST_20150317_000133	Por favor, reza. {Nl} La Diosa enviará a alguien para sal
 QUEST_20150317_000134	Maestro Hoplite
 QUEST_20150317_000135	Si la espada es un símbolo de autoridad, la lanza es en sí un arma de pura destrucción. {Nl} ¿Autoridad o destrucción? ¿Qué escogerías en el campo de batalla?
 QUEST_20150317_000136	Artesano Fabricante de Máquinas
-QUEST_20150317_000137	Incluso si el mundo está en cáos, no puedo simplemente tomar un descanso. {Nl} Cuatro años han pasado, debemos calmarnos y comenzar de nuevo.
-QUEST_20150317_000138	Minar es el sustento de Klaipeda. {Nl} Si paramos de trabajar por el Día Divino probablemente nos veríamos forzados a vivir de tallar árboles.
+QUEST_20150317_000137	Incluso si el mundo está en caos, no puedo simplemente tomar un descanso. {Nl} Cuatro años han pasado, debemos calmarnos y comenzar de nuevo.
+QUEST_20150317_000138	La minería es el sustento de Klaipeda. {Nl} Si dejásemos de trabajar por el Día Divino probablemente nos veríamos forzados a vivir la tala de árboles.
 QUEST_20150317_000139	Mi tío decía que debes mirar cuidadosamente a tu alrededor si es posible. {Nl} Algunas veces, si eres afortunado, podrías encontrar cofres preciosos. Me pregunto quién los habrá puesto en esos lugares.
 QUEST_20150317_000140	Cazador Retirado
-QUEST_20150317_000141	Ví soldados pelear contra monstruos gigantes en el Cañón Profundo. {Nl} Estaba sorprendido de que pudieron ganar, pero estaba más sorprendido de las recompenzas que recivieron.
+QUEST_20150317_000141	Ví soldados pelear contra monstruos gigantes en el Cañón Profundo. {Nl} Me sorprendió que pudieran ganar, pero me sorprendió aun más las recompensas que recibieron.
 QUEST_20150317_000142	Anciano Horneando Cerámica
-QUEST_20150317_000143	Pongo mis deseos en cada olla de cerámica que hago. {Nl} La bendición de las Diosas caerán sobre ellas mientras lo haga.
+QUEST_20150317_000143	Pongo mis deseos en cada jarrón de cerámica que hago. {Nl} La bendición de las Diosas caerán sobre ellas mientras lo haga.
 QUEST_20150317_000144	Clases guerreras van por la Fuerza. {Nl} Pero puedes optar por agilidad de movimiento o constitución. {Nl} Debes considerar tus opciones primero para decidir en qué quieres convertirte.
 QUEST_20150317_000145	Clases hechizeras van por la Inteligencia. {Nl} Pero no debes olvidar el Espíritu si quieres usar tu magia constantemente. {Nl} Elige bien, considerando el balance y la concentración. {Nl}
 QUEST_20150317_000146	Clases arqueras van por la Fuerza. {Nl} Pero no debes olvidar la Agilidad. {Nl} Debes considerar tus opciones primero para decidir en qué quieres convertirte.
 QUEST_20150317_000147	Clases clericales van por la Inteligencia. {Nl} Pero también necesitas gran Fuerza y Espíritu. {Nl} Debes considerar tus opciones primero para decidir en qué quieres convertirte.
 QUEST_20150317_000148	Maestro Doppelsoldner
-QUEST_20150317_000149	Grandes riegos, grandes recompenzas. {Nl} Si quieren recompenzas debes tomar los riesgos.
+QUEST_20150317_000149	Grandes riegos, grandes recompensas. {Nl} Si quieren recompensas debes asumir los riesgos.
 QUEST_20150317_000150	Maestro Corsair
 QUEST_20150317_000151	No necesito ayudar a nadie si no consigo nada a cambio.
 QUEST_20150317_000152	Roca
 QUEST_20150317_000153	Está bloqueado por una gran roca...
 QUEST_20150317_000154	Necesita ser reparado...
 QUEST_20150317_000155	Bloqueado por una roca...
-QUEST_20150317_000156Material de Invesigación de Mágia
-QUEST_20150317_000157	Parece ser un material de investigación de un mago de la Torre de los Magos. {Nl} ¿Debería copiarlo?
+QUEST_20150317_000156 Material de Invesigación de Mágia
+QUEST_20150317_000157	Parece ser material de investigación de un hechicero de la Torre de los Magos. {Nl} ¿Debería copiarlo?
 QUEST_20150317_000158	Sigilo e infiltración no lo son todo. {Nl} Habilidades de combate son también necesarias para los Scouts.
 QUEST_20150317_000159	Vas a necesitar varias herramientas en tus viajes. {Nl} Sería mejor que las compres de antemano.
 QUEST_20150317_000160	Si los hechizos de control mágico se detienen, las revelaciones ya no podrán ser protegidas.
@@ -162,14 +162,14 @@ QUEST_20150317_000161	Lápida de un Ladrón sin nombre
 QUEST_20150317_000162	Dejaré este epitafio. {Nl} Tomo mi orgullo como el ladrón más grandioso que hay para desafiar al mago más poderoso.
 QUEST_20150317_000163	¿Puedo decir que fuí vencedor solo con robarle? {Nl} Supongo que puedo decir que lo vencí simplemente con robarle al mago más poderoso. {Nl}
 QUEST_20150317_000164	Pero no lo sería. {Nl} No quiero ser el ladrón más grandioso que hay, quiero ser el ladrón más grandioso de la historia.
-QUEST_20150317_000165	Al fin, encontré un camino para entrar a la Torre de los Magos. {Nl} Es concentrar todo el poder mágico en un lugar específico. {Nl} Ahora, solo debo tomar el paso decisivo. 
-QUEST_20150317_000166	Dentro de poco, mi dispositivo especial será activado. {Nl} Si haces lo que yo, también podrás entrar a la Torre de los Magos. {Nl}
-QUEST_20150317_000167	Por supuesto que luego de eso tendrás que arreglártelas con los magos. ¡Haha!
+QUEST_20150317_000165	Al fin, encontré un camino para entrar a la Torre de los Magos. {Nl} Se trata de concentrar todo el poder mágico en un lugar específico. {Nl} Ahora, solo debo tomar el paso decisivo. 
+QUEST_20150317_000166	Dentro de poco, mi dispositivo especial será activado. {Nl} Si haces lo mismo que yo, también podrás entrar a la Torre de los Magos. {Nl}
+QUEST_20150317_000167	Por supuesto que tras esto tendrás que arreglártelas con los magos. ¡Jaja!
 QUEST_20150317_000168	Lápida de los Preceptos
-QUEST_20150317_000169	He asesinado con llamas a los ladrones que se infiltraron a la torre de terceros y robaron las pertenencias. {Nl} Pero estoy dejando esta lápida para advertir a futuros intrusos. {Nl} - Agailla Flurry
+QUEST_20150317_000169	He quemado a los ladrones que se infiltraron en la torre de terceros y robaron las pertenencias. {Nl} Pero he dejando esta lápida para advertir a futuros intrusos. {Nl} - Agailla Flurry
 QUEST_20150317_000170	Gesti el Rey de los Demonios
-QUEST_20150317_000171	¿Cómo te atrevez siendo un humano...? {Nl}
-QUEST_20150317_000172	Espera y verás. Aún no se termina. {Nl} Reza que Laima salvará el mundo.
+QUEST_20150317_000171	¿Cómo te atreves siendo un humano...? {Nl}
+QUEST_20150317_000172	Espera y verás. Aún no se ha terminado. {Nl} Reza para que Laima salve el mundo.
 QUEST_20150317_000173	Oficial de Klaipeda
 QUEST_20150317_000174	Bienvenido. Uska está esperando en la plaza central de Klaipeda. {Nl} ¿Hay algo que no hayas notificado?
 QUEST_20150317_000175	¿Quieres ir a la entrada de Klaipeda immediatamente? {Nl} Piénsalo bien.
@@ -177,103 +177,103 @@ QUEST_20150317_000176	Operador Temporario
 QUEST_20150317_000177	Cambia el estado de este personaje.
 QUEST_20150317_000178	NPC HIDE/UNHIDE Setting!
 QUEST_20150317_000179	Discípulo Algis
-QUEST_20150317_000180	El tiempo ha llegado, como anticipó la Diosa al primer Paladín. {Nl} Okay, pregúntame lo que quieras.
-QUEST_20150317_000181	Hace mucho tiempo había nómades deambulando los alrededores, infectados con la maldición de la plaga. {Nl} El primer Paladín curó sus males con el Agua Divina.
+QUEST_20150317_000180	El tiempo ha llegado, como anticipó la Diosa al primer Paladín. {Nl} Vale, pregúntame lo que quieras.
+QUEST_20150317_000181	Hace mucho tiempo había nómadas deambulando por los alrededores, infectados con la maldición de la plaga. {Nl} El primer Paladín curó sus males con el Agua Divina.
 QUEST_20150317_000182	Los Scouts son los descendientes de los nómades. {Nl} Pero el propósito original del Agua Divina no era el de curar a esas personas.
-QUEST_20150317_000183	Un día, la Diosa solicitó la revelación al primer Paladín. {Nl} Mientras pensaba en como mantener esto en secreto, los maldecidos nómades aparecieron. {Nl}
+QUEST_20150317_000183	Un día, la Diosa solicitó la revelación al primer Paladín. {Nl} Mientras pensaba en como mantener esto en secreto, los nómadas maldecidos aparecieron. {Nl}
 QUEST_20150317_000184	El primer Paladín prometió tres compromisos para detener la maldición. {Nl}
-QUEST_20150317_000185	Construir la Catedral de Tenet juntos. {Nl} Esconder el Agua Divina en estas tierras y convertirla en una reliquia. {Nl} Pelear juntos cuando haya una crisis en estas tierras.
+QUEST_20150317_000185	Construir la Catedral de Tenet juntos. {Nl} Esconder el Agua Divina en estas tierras y convertirla en una reliquia. {Nl} Y pelear juntos cuando haya una crisis en estas tierras.
 QUEST_20150317_000186	Esto es para proteger la revelación que está oculta en el Santuario de la Catedral de Tenet.
 QUEST_20150317_000187	El Agua Divina fue creada para proteger la revelación. {Nl} Fue creada para llamar la atención del Rey de los Demonios y destruirlo. {Nl}
 QUEST_20150317_000188	Las cosas pueden salir mal, sin embargo. {Nl} Si esto falla, es muy probable que la batalla final tome lugar en la Catedral de Tenet.
 QUEST_20150317_000189	Pawndel
 QUEST_20150317_000190	¿Pasa algo?
-QUEST_20150317_000191	¿Enserio?
+QUEST_20150317_000191	¿En serio?
 QUEST_20150317_000192	Pond
-QUEST_20150317_000193	¿Qué pasó?
-QUEST_20150317_000194	Gesti nos dijo que protegiéramos este lugar...
+QUEST_20150317_000193	¿Qué ha pasado?
+QUEST_20150317_000194	Gesti nos dijo que protegiésemos este lugar...
 QUEST_20150317_000195	Entonces, ¿qué hacemos ahora?
 QUEST_20150317_000196	¿Es este el lugar correcto?
-QUEST_20150317_000197	Explicando
-QUEST_20150317_000198	Conté la parte de la revelación que he obtenido en la Mina de Cristal.
-QUEST_20150317_000199	No sé que tan importante fuiste en el pasado {Nl} pero si estás aquí, tienes que seguir las reglas del reino. {Nl} Lo mismo va para los Caballeros de Kalis. Nosotros somos la ley aquí.
+QUEST_20150317_000197	Explicando...
+QUEST_20150317_000198	He contado la parte de la revelación que he escuchado en la Mina de Cristal.
+QUEST_20150317_000199	No sé lo importante fuiste en el pasado {Nl} pero si estás aquí, tienes que seguir las reglas del reino. {Nl} Lo mismo va para los Caballeros de Kalis. Nosotros somos la ley aquí.
 QUEST_20150317_000200	Tumba del Ladrón Juvertas
 QUEST_20150317_000201	¡Siento que me estoy volviendo loco por estar tanto tiempo en estas tierras! {Nl} ¿¡Cuándo iba él a venir aquí, de todas maneras!?
 QUEST_20150317_000202	Thief Benjaminas
-QUEST_20150317_000203	Nos gusta llamarnos a nosotros mismos "arqueólogos", pero todos nos llaman ladrones. {Nl} Utilizar objetos que no pertecen a nadie es deber significativo. {Nl} Es mucho mejor que simplemente dejarlos aquí y que se pudran. 
+QUEST_20150317_000203	Nos gusta llamarnos a nosotros mismos "arqueólogos", pero todos nos llaman ladrones. {Nl} Utilizar objetos que no pertecen a nadie es un deber significativo. {Nl} Es mucho mejor que simplemente dejarlos aquí y que se pudran. 
 QUEST_20150317_000204	Diario de un ciudadano
 QUEST_20150317_000205	Un año ha pasado desde la guerra civil. Los precios han incrementado bastante en la ciudad. El general Ruklys quiere conseguir más provisiones, pero hay un rumor de que el Rey Kadumel va tras él.
 QUEST_20150317_000206	Diario de un centinela
-QUEST_20150317_000207	Se reforzó la guardia en la entrada luego de que el Rey Kadumel decidió manegar el país por él mismo. Es verdad que el incompetente rey trajo un montón de soldados, pero si el general Hayatin decide venir aquí con voluntarios, el Rey Kadumel va a rendirse o escapar, seguramente.
-QUEST_20150317_000208	Diario de un mercante
+QUEST_20150317_000207	Se reforzó la guardia en la entrada después de que el Rey Kadumel decidiese manejar el país por él mismo. Es cierto que el incompetente rey trajo un montón de soldados, pero si el general Hayatin decide volver con voluntarios, el Rey Kadumel seguramente se rendirá o escapará.
+QUEST_20150317_000208	Diario de un mercader
 QUEST_20150317_000209	La comida y las provisiones se están acabando en la ciudad. (El resto del texto es ilegible.)
 QUEST_20150317_000210	Hay rumores sobre que el General Ruklys está negociando con el Rey Kadumel por la seguridad de los ciudadanos.
 QUEST_20150317_000211	Registros de un oficial
-QUEST_20150317_000212	Escuché que el primer ministro está negociando con el general Ruklys. Podríamos vernos forzados a movernos a la Fortaleza de la Gran Tierra y la ciudad ser tomada por los soldados del reino. Podrían ser buenas noticias si pensamos en la seguridad de nuestros ciudadanos. La Fortaleza de la Gran Tierra es bastante segura.
+QUEST_20150317_000212	Escuché que el primer ministro está negociando con el general Ruklys. Podríamos vernos forzados a transladarnos a la Fortaleza de la Gran Tierra y la ciudad sea tomada por los soldados del reino. Podrían ser buenas noticias si pensamos en la seguridad de nuestros ciudadanos. La Fortaleza de la Gran Tierra es bastante segura.
 QUEST_20150317_000213	El Rey Kadumel sigue ordenando perseguir a los ciudadanos. El primer ministro está intentando con todo su poder evitarlo y asegurar la seguridad de la ciudad. La milicia del reino no mostró hostilidad aún.
-QUEST_20150317_000214	Tenemos que estar aquí hasta que Costas llegue. {Nl} Hay muchas cosas que hacer, así que espero que llegue pronto. 
+QUEST_20150317_000214	Tenemos que estár aquí hasta que Costas llegue. {Nl} Hay muchas cosas que hacer, así que espero que llegue pronto. 
 QUEST_20150317_000215	Cryomancer Costas
-QUEST_20150317_000216	Si podemos encontrar el Símbolo de Silk, todo va a estar bien. {Nl} Podemos resucitar la ciudad.
+QUEST_20150317_000216	Si podemos encontrar el Símbolo de Silk todo se solucionará. {Nl} Podemos resucitar la ciudad.
 QUEST_20150317_000217	
 QUEST_20150317_000218	Los soldados del reino y Caliss Knitage... yo pienso que nosotros, los ladrones, estamos balanceando las cosas. {Nl} Por esa razón es que las personas pueden al menos caminar por aquí... antes de eso, este no era un lugar para quedarse.
 QUEST_20150317_000219	Registros de un oficial del reino
-QUEST_20150317_000220	No hubo ningún progreso luego de que Ruklys y su gente se movieron a la Fortaleza de la Gran Tierra. Los clérigos que fueron influenciados por Maven piensan muy pesimistamente sobre participar en la guerra. El Rey está tratando de contratar magos pagándoles bastante, pero no esperamos mucho progreso incluso con su ayuda.
-QUEST_20150317_000221	A record of a citizen
-QUEST_20150317_000222	How could this happen! Lydia Schaffen is going to help Kadumel soldiers.
-QUEST_20150317_000223	A record of an executive at Kingdom Military
-QUEST_20150317_000224	Lydia Schaffen, the person that I only heard in rumors, came to the city with her followers. The officers and soldiers expect that she will change the circumstances in the battle. His majesty ordered us to support her at our best.
-QUEST_20150317_000225	A record of a citizen
-QUEST_20150317_000226	The Fortress of Great Land has fallen down! Now everything is over..
-QUEST_20150317_000227	General Ruklys is dead and the Fortress of Great Land collapsed. Some people say he died due to Lydia Schaffen's arrow, and others say that he died due to the magic used by royal magicians. It is indeed a sad news.
-QUEST_20150317_000228	To support Caliss Knitage, I moved to here from the headquarters.{nl}If you have any questions, please ask at the headquarters in Square of Lamentation.
-QUEST_20150317_000229	It doesn't feel good to guard here because of Caliss Knitage.{nl}Furthermore, thieves are also running around so we are waiting for support from the headquarters.
-QUEST_20150317_000230	Until now, I have only seen cursed shapes that lost all their time, but it will be different from now on since I came here.
-QUEST_20150317_000231	Would dead people come back if the curse is cured in this city?{nl}No, but our landlords have tried hard to recover this place.{nl}And they used all methods.
-QUEST_20150317_000232	Grave Thief Stephonas
-QUEST_20150317_000233	We're different from those Diko Grave Theive guys. {nl}They don't have any business morailty. {nl}If you help use this time, I will surely pay you back someday. 
-QUEST_20150317_000234	Kingdom Soldier Rofdel
-QUEST_20150317_000235	If you watch from the watchtower, you will know that many incidents happen everyday{nl}even if it seems like the city's time has stopped. {nl}Usually you can't see much with the dust but once it rains, {nl}you can see as far as the Ruklys Road. 
-QUEST_20150317_000236	We have tried hard for hundreds of years to recover this ruins.{nl}If you help, we will find out what happened on that day and revive this city.
-QUEST_20150317_000237	Bokor Master
-QUEST_20150317_000238	This is indeed a curse. With all my faith, I discover the truth.
+QUEST_20150317_000220	No hubo ningún progreso después de que Ruklys y su gente se transladasen a la Fortaleza de la Gran Tierra. Los clérigos que fueron influenciados por Maven piensan de manera muy pesimista sobre participar en la guerra. El Rey está tratando de contratar magos pagándoles abundantemente, pero no esperamos mucho progreso incluso con su ayuda.
+QUEST_20150317_000221	Diario de un ciudadano
+QUEST_20150317_000222	¡¿Cómo ha podido pasar esto?! Lydia Schaffen va a ayudar a los soldados de Kadumel.
+QUEST_20150317_000223	Registros de un oficial
+QUEST_20150317_000224	Lydia Schaffen, la persona de la que solo había oído hablar en rumores, ha venido a la ciudad con sus seguidores. Los oficiales y soldados esperan que cambie las circunstancias de la batalla. Nuestra majestad nos ha ordenado ayudarla en todo lo que podamos.
+QUEST_20150317_000225	Diario de un ciudadano
+QUEST_20150317_000226	¡La fortaleza de la Gran Ciudad ha caído! Ahora todo ha terminado...
+QUEST_20150317_000227	El general Ruklys está muerto y la Fortaleza de la Gran Ciudad ha colapsado. algunas personas dicen que ha muerto por una flecha de Lydia Schaffen, y otros dicen que ha muerto a manos de la magia usada por los mago reales. Ambas son malas noticias.
+QUEST_20150317_000228	Para ayudar a Caliss Knitage me he trasladado desde el cuartel general. {nl} Si tienes alguna duda pregunta en el cuartel general de la Plaza de la Lamentación
+QUEST_20150317_000229	No me gusta hacer guardia aquí por Caliss Knitage {nl} Además, los ladrones también están por los alrededores por lo que estamos esperando ayuda del cuartel general.
+QUEST_20150317_000230	Hasta ahora solo he visto formas malditas que han perdido todo su tiempo, pero desde ahora será diferente ya que yo he venido aquí.
+QUEST_20150317_000231	¿Las personas fallecidas volverían si la maldición es curada en esta ciudad? {nl} No, pero los señores de estas tierras han trabajado duro para recuperar este lugar. {nl} Y han usado todo tipo de métodos.
+QUEST_20150317_000232	Tumba del ladrón Stephonas
+QUEST_20150317_000233	Nosotros somos diferentes de esos chicos "Diko Grave Theive". {nl} Ellos no tienen ninguna moral en el negocio. {nl} Si nos ayudas esta vez, te aseguro que te lo pagaré algún día.
+QUEST_20150317_000234	Soldado del Reino Rofdel
+QUEST_20150317_000235	Si miras desde la torre de observación sabrás que ocurren muchos accidentes. Todos los días {nl} Incluso si parece que el tiempo en la ciudad se ha detenido. {nl} Normalmente no puedes ver demasiado debido al polvo pero cuando llueve, {nl} Puedes llegar a ver incluso el camino de Ruklys.
+QUEST_20150317_000236	Hemos intentado por cientos de años recuperar estas ruinas. {nl} Si nos ayudas, descubriremos que es lo que ocurrió ese día y reviviremos esta ciudad.  
+QUEST_20150317_000237	Maestro Bokor 
+QUEST_20150317_000238	Esto también es una maldición. Con toda mi fe descubriré la verdad.
 QUEST_20150317_000239	
-QUEST_20150317_000240	This is an interesting place. This city is filled with things to experiment.
+QUEST_20150317_000240	Este es un lugar interesante. Esta ciudad está llena de cosas con las que experimentar.
 QUEST_20150317_000241	
-QUEST_20150317_000242	Our family is different from those Dico thieves.{nl}Of course, to live, we are disobeying some laws
-QUEST_20150317_000243	Are there dead soldiers already?{nl}I have never seen this kind of irregular Frost Stone before.{nl}Everyone at the city seems to revive the day to hide something.
-QUEST_20150317_000244	High Speed Movement
-QUEST_20150317_000245	Ripped letter
-QUEST_20150317_000246	brother you love, because there is Fedimian.
-QUEST_20150317_000247	Gesti found out.{nl}Stay calm. We still have a chance.
-QUEST_20150317_000248	Supply soldier on holiday
-QUEST_20150317_000249	I don't know what the royal family is doing. {Nl} I even heard those high people fled town already.
-QUEST_20150317_000250	At times like this, it's better to make things yourself than to buy it from the shops. {Nl} I originally only a Supply soldier, but my work is nothing different from a blacksmith.
-QUEST_20150317_000251	Follower Noma
-QUEST_20150317_000252	I didn't know the person who accepted our request was you, Revelator.{nl}It is really an honor for us.
-QUEST_20150317_000253	Gesti's demons are keep attacking.{nl}But, it seems that they also influnced Pantos that are living here.
-QUEST_20150317_000254	Pantos were kind and slow before, but they try to kill us now when they spot us.
-QUEST_20150317_000255	There is a tree here that Pantos worship.{nl}Maybe this is happening because that tree is polluted with vicious atmosphere.
-QUEST_20150317_000256	Please protect Romuva Barrier which is located on the top of this valley.{nl}We will take care of the rest when our brothers arrive here.
-QUEST_20150317_000257	May the Goddess bless you..
-QUEST_20150317_000258	I want to get into some action somewhere.{nl}I have never been in a real battle lately.
-QUEST_20150317_000259	We are still preparing.{nl}Please wait.
+QUEST_20150317_000242	Nuestra familia es diferente de esos ladrones Dico. {nl} Por supuesto, para vivir estamos desobedeciendo algunas leyes.
+QUEST_20150317_000243	¿Hay ya soldados muertos? {nl} Nunca había visto este tipo de irregularidades en la Roca Helada antes. {nl} Todos en la ciudad parecen revivir de día para esconder algo.
+QUEST_20150317_000244	Movimiento a gran velocidad
+QUEST_20150317_000245	Carta destrozada.
+QUEST_20150317_000246	Hermano que amas, porque hay Fedimian.
+QUEST_20150317_000247	Gesti lo ha descubierto. {nl} Mantened la calma. Aún tenemos una oportunidad.
+QUEST_20150317_000248	Soldado de reserva de vacaciones.
+QUEST_20150317_000249	No sé qué es lo que la familia real está haciendo. {nl} Incluso he escuchado que esa gente de altos rangos ya ha huido de la ciudad.
+QUEST_20150317_000250	En momentos como este, es mejor hacer las cosas por ti mismo que comprarlas en las tiendas. {nl} Originalmente soy solo un soldado de reserva, pero mi trabajo no es muy diferente al de un herrero.
+QUEST_20150317_000251	Seguidor Noma
+QUEST_20150317_000252	No sabía que la persona que había aceptado la petición habías sido tú, Revelador. {nl} Es un gran honor para nosotros.
+QUEST_20150317_000253	Los demonios de Gesti no dejan de atacar.{nl} Pero parece que también han influenciado a los Pantos que viven aquí.
+QUEST_20150317_000254	Los Pantos antes eran amables y lentos, pero ahora intentan de matarnos cuando nos ven.
+QUEST_20150317_000255	Hay un árbol al que los Panto rendían culto. {nl} Quizás esto está pasando porque ese árbol está envenenado con una atmosfera viciosa.
+QUEST_20150317_000256	Por favor protege la Barrera de Romuva que está localizada en la parte superior de este valle. {nl} Cuidaremos del resto cuando nuestros hermanos lleguen. 
+QUEST_20150317_000257	Que la diosa te proteja...
+QUEST_20150317_000258	Quiero tener un poco de acción en alguna parte. {nl} No he estado en ninguna batalla real últimamente. 
+QUEST_20150317_000259	Aún nos estamos preparando. {nl} Por favor espera. 
 QUEST_20150317_000260	Antares
-QUEST_20150317_000261	What. Are you trying to disturb my experiment again?{nl}I can't let that happen.
-QUEST_20150317_000262	Be careful! I'm sure Antares is behind all this. {nl}It will explode when you go near it. {nl}You'd better lure the monsters and remove it one at a time. 
-QUEST_20150317_000263	When I open this valve, my experiment will be completed.{nl}You will see something spectacular.
-QUEST_20150317_000264	Please protect me while I am calming the Jewel of Prominence.
-QUEST_20150317_000265	What, you still don't understand the situation?{nl}If it wasn't Antares, then I would live forever as a human.{nl}Yes. I am a demon.{nl}
-QUEST_20150317_000266	Yes.. Lots of efforts were put into making the Jewel of Prominence so I guess I should take a look at the output?{nl}I really like it, but I don't know how you would respond to it, Huhuhu..
-QUEST_20150317_000267	Do you know about the demon spector Helgasercle? {nl}I read it in the book that it attacked this Maze Tower a few times. 
-QUEST_20150317_000268	She just keeps getting stronger until her jealousy stops.{nl}But, she defeated it everytime it came so I wonder if it came this time.{nl}
-QUEST_20150317_000269	Look out! It's coming from behind!
-QUEST_20150317_000270	I hope this revelation reaches you under the protection of fire..{nl}I am going to forecast the catastrophes that will occur in your era.{nl}
-QUEST_20150317_000271	The source of everything..{nl}Austras Koks is the ancient being that sprites the power of birth into this land.
-QUEST_20150317_000272	Giltine, reverses the principle of causing the disaster's World Tree. {Nl} number of the world that had been supplying the life force will grow explosively sucking all the power to reverse. {Nl}
-QUEST_20150317_000273	Roaring Austras Koks will break itself out from the land and bring a huge catastrophe on this land.{nl}Yes. The divine water in your era is called Austras Koks.{nl}
-QUEST_20150317_000274	The catastrophe will not end there.{nl}You must have seen the crystal that is on the end of the root.
-QUEST_20150317_000275	The demons changed it to swalllow even the spirits easily to help the growth of Austras Koks.{nl}Because of this, many monsters will be born and they will be more violent.{nl}
-QUEST_20150317_000276	When I found out everything, I didn't have any power to resist against this catastrophe.{nl}The numbers and the forecasts that I sent to Zachariel were all forgotten due to demons' plot.{nl}
+QUEST_20150317_000261	¡¿Qué?! ¿Estás tratando de interrumpir mi experimento de nuevo?{nl} No puedo permitir que eso ocurra.
+QUEST_20150317_000262	¡Ten cuidado! Estoy seguro de que Antares está detrás de todo esto. {nl} Explotará cuando estés cerca.{nl}Es mejor que atraigas a los monstruos y los elimines uno a uno.
+QUEST_20150317_000263	Cuando abra esta válvula mi experimento estará completo.{nl}Vas a contemplar algo espectacular. 
+QUEST_20150317_000264	¡Por favor protégeme mientras calmo la Gema de la Prominencia!.
+QUEST_20150317_000265	¿Qué? ¿Aun no entiendes la situación? {nl} Si no fuese Antares, habría vivido eternamente como un humano.{nl]Sí, soy un demonio.{nl}
+QUEST_20150317_000266	Sí...Se pusieron muchos esfuerzos en crear la Gema de la Prominencia, por lo que supongo que debería echar un vistazo a la cantidad producida{nl} Realmente me gusta, pero no sé como responderías a ella, huhuhu...
+QUEST_20150317_000267	¿Sabes sobre el demonio espectro Helgasercle? {nl} Lo he leido en un libro que atacó esta Torre Laberinto un par de veces.
+QUEST_20150317_000268	Ella se vuelve más fuerte hasta que su envidia se detiene.{nl}Pero, lo ha derrotado todas las veces que ha venido, por lo que me pregunto si ha venido esta vez.
+QUEST_20150317_000269	¡Atento! ¡Viene por detrás!
+QUEST_20150317_000270	Espero que esta revelación te alcance bajo la protección del fuego...{nl]Voy  a predecir las catástrofes que ocurrirán en tu era.{nl]
+QUEST_20150317_000271	La fuente de todo...{nl}Austras Koks es el antíguo ser que proporciona el poder de nacimiento a esta tierra.
+QUEST_20150317_000272	Giltine altera el principio de causa de los desastres del World Tree.{nl]La parte del mundo que había estado suministrando fuerza de vida crecerá hasta explotar, chupando todo el poder para ir marcha atrás. 
+QUEST_20150317_000273	El rugido de Austras romperá la tierra por sí solo y traerá una gran catástrofe a esta tierra.{nl}Sí. El Agua Divina de tu era es llamada Austras Koks.
+QUEST_20150317_000274	La catástrofe no terminará ahí.{nl}Debes haber visto el cristal que está al final de la raíz.
+QUEST_20150317_000275	Los demonios han cambiado para poder tragar los espíritus y así ayudar al crecimiento del Austras Koks.{nl]Por ello, muchos monstruos nacerán  y se volverán más violentos.
+QUEST_20150317_000276	Cuando lo descubrí todo no tuve el poder suficiente para resistirme contra la catástrofe.{nl}Los números y la predicción que he mandado a Zachariel fueron olvidados debido a los demonios.
 QUEST_20150317_000277	Austras Koks is keep growing.{nl}The end of it.. It is beyond my power to measure.{nl}
 QUEST_20150317_000278	I believe things will turn out differently from what I have seenn.{nl}And the start of that difference will be you.{nl}
 QUEST_20150317_000279	I will stop my long speech here..{nl}I left the next revelation to Maven.{nl}I will wait for the day when the revelation reaches you at the Great Cathedral.{nl}
